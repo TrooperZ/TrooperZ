@@ -1,5 +1,8 @@
-## Hi there 👋
+# Amin Karic
 
+Software Engineer
+
+BS in Computer Science and a minor in Electrical Engineering and Mathematics at Texas A&M University
 <!--
 **TrooperZ/TrooperZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
